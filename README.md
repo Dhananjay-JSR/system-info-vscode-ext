@@ -1,5 +1,5 @@
 <p align="center">
-      <img width="20%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/logo/logo.svg" alt="Snap-Status" />
+      <img width="20%" src="./logo/logo.svg" alt="Snap-Status" />
       <h1 align="center">Snap-Status</h1>
 </p>
 
