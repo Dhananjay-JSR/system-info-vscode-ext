@@ -1,4 +1,8 @@
-# Snap-Status
+<p align="center">
+      <img width="20%" src="./logo/logo.svg" alt="nextui" />
+      <h1 align="center">Snap-Status</h1>
+</p>
+
 
 ## Motivation
 
