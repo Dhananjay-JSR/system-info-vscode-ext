@@ -1,5 +1,5 @@
 <p align="center">
-      <img width="20%" src="./logo/logo.svg" alt="Snap-Status" />
+      <img width="20%" src="./rsc/logo.svg" alt="Snap-Status" />
       <h1 align="center">Snap-Status</h1>
 </p>
 
@@ -7,6 +7,10 @@
 ## Motivation
 
 With VSCode being so flexible and so many things have started integrating with it (You Name It , Need a Live Server , available in VSCode as Extension , Need a Debugger , Available in VScode as Extension , Need a Postman alternative , Available in VScode as Extention) there is no way I have to leave my workspace to monitor my System using task manager , well no More INTRODUCING Snap-Status as new way to bring command task manager functionality to VSCode workspace.
+
+<p align="center">
+<img width="80%" src="./rsc/speed.gif" alt="Snap-Status" />
+</p>
 
 ## Features
 
@@ -17,6 +21,10 @@ With VSCode being so flexible and so many things have started integrating with i
 5) Ram Usage
 6) More Coming Soon......
 
+<p align="center">
+<img width="80%" src="./rsc/ram.gif" alt="Snap-Status" />
+</p>
+
 ## Known Issues
 
  - CPU Usage Not Working As Expected
@@ -25,7 +33,7 @@ With VSCode being so flexible and so many things have started integrating with i
 ## Release Notes
 
 
-### 1.0.0
+### 0.0.a.1
 
 :03-03-2026:
     Initial release of Snap-Status
