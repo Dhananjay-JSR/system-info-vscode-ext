@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "extension.show_hide_speed",
-				"title": "Show / Hide Your Internet Speed"
+				"title": "Show / Hide Your Network Speed"
 			},
 			{
 				"command": "extension.show_hide_ram_cpu",
