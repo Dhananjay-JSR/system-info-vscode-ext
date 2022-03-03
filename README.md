@@ -9,7 +9,7 @@
 With VSCode being so flexible and so many things have started integrating with it (You Name It , Need a Live Server , available in VSCode as Extension , Need a Debugger , Available in VScode as Extension , Need a Postman alternative , Available in VScode as Extention) there is no way I have to leave my workspace to monitor my System using task manager , well no More INTRODUCING Snap-Status as new way to bring command task manager functionality to VSCode workspace.
 
 <p align="center">
-<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/logo.png" alt="Snap-Status" />
+<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/speed.gif" alt="Snap-Status" />
 </p>
 
 ## Features
@@ -22,7 +22,7 @@ With VSCode being so flexible and so many things have started integrating with i
 6) More Coming Soon......
 
 <p align="center">
-<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/logo.png" alt="Snap-Status" />
+<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/ram.gif" alt="Snap-Status" />
 </p>
 
 ## Known Issues
