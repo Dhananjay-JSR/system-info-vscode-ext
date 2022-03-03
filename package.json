@@ -1,6 +1,7 @@
 {
 	"name": "snap-status-bar",
 	"displayName": "Snap-Status",
+	"publisher": "Dhananjay Senday",
 	"description": "A Simple VSCode Extension which shows realtime stats about PC ( Ram Usage , Cpu Usage , Internet Usage )",
 	"version": "0.0.1",
 	"icon": "https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/logo.png",
