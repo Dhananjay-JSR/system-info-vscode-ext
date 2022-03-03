@@ -8,3 +8,6 @@ src/**
 **/*.map
 **/*.ts
 rsc/logo.svg
+rsc/ram.gif
+rsc/speed.svg
+

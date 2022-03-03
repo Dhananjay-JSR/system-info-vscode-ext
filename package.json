@@ -1,14 +1,14 @@
 {
 	"name": "snap-status-bar",
 	"displayName": "Snap-Status",
-	"publisher": "Dhananjay Senday",
+	"publisher": "DhananjaySenday",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Dhananjay-JSR/system-info-vscode-ext"
 	},
 	"description": "A Simple VSCode Extension which shows realtime stats about PC ( Ram Usage , Cpu Usage , Internet Usage )",
 	"version": "0.0.1",
-	"icon": "https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/logo.png",
+	"icon": "rsc/logo.png",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
