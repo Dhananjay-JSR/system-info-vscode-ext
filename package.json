@@ -7,7 +7,7 @@
 		"url": "https://github.com/Dhananjay-JSR/system-info-vscode-ext"
 	},
 	"description": "A Simple VSCode Extension which shows realtime stats about PC ( Ram Usage , Cpu Usage , Internet Usage )",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"icon": "rsc/logo.png",
 	"engines": {
 		"vscode": "^1.64.0"
