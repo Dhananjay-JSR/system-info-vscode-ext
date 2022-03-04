@@ -43,5 +43,5 @@ With VSCode being so flexible and so many things have started integrating with i
 :04-03-2022:
     Fixed CPU Utilization Not Working
     <p align="center">
-<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/cpu.png" alt="Snap-Status" />
+<img src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/cpu.PNG" alt="Snap-Status" />
 </p>
