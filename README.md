@@ -27,13 +27,21 @@ With VSCode being so flexible and so many things have started integrating with i
 
 ## Known Issues
 
- - CPU Usage Not Working As Expected
+ - ~~CPU Usage Not Working As Expected~~
  - CPU Utilisation Not Working As Expected
 
 ## Release Notes
 
 
-### 0.0.a.1
+### 0.0.1
 
-:03-03-2026:
+:03-03-2022:
     Initial release of Snap-Status
+
+### 0.0.3
+
+:04-03-2022:
+    Fixed CPU Utilization Not Working
+    <p align="center">
+<img width="80%" src="https://raw.githubusercontent.com/Dhananjay-JSR/system-info-vscode-ext/main/rsc/cpu.png" alt="Snap-Status" />
+</p>
